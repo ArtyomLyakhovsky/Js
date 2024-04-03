@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.btn {
+    padding: 20px 80px;
+    background-color: rgb(223, 38, 14);
+    border-radius: 20px;
+    cursor: pointer;
+    color: #fff;
+    border: #fff;
+
+}
+input {
+    padding: 10px;
+    margin-right: 10px;
+}
+h1 {
+    margin-right: 20px;
+}
